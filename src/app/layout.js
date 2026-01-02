@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <Header />
-        <div className="pt-20">{/* Adjust pt-28 if header height changes */}
+        <div className="pt-20 container ">{/* Adjust pt-28 if header height changes */}
           {children}
         </div>
         <Footer />
