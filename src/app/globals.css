@@ -31,13 +31,13 @@
   animation: fade-in-up 0.8s cubic-bezier(0.4,0,0.2,1) both;
 }
 :root {
-  --background: #ffffff;
+  --background: #dedbdb;
   --foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #ededed;
+    --background: #dedbdb;
   }
 }
 

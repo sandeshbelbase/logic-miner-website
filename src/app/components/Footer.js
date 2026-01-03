@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
         </div>
         {/* Copyright */}
-        <div className="text-sm text-gray-400 text-center md:text-right">
+        <div className="text-sm text-white text-center md:text-right">
           &copy; {new Date().getFullYear()} Logic Miners. All rights reserved.
         </div>
       </div>
